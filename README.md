@@ -12,7 +12,7 @@ This is a samll business card which has been created using HTML and styled with
 CSS. I completed this project by following the instructions in the below
 tutorial:
 
-Source: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension)
+Source: [Fundamental CSS comprehension](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Fundamental_CSS_comprehension)
 
 
 ## Technologies Used
